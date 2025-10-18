@@ -1,0 +1,18 @@
+# Prompting Basics: A Beginner's Guide
+
+Prompting is the art of crafting inputs to get the best outputs from language models like Grok, ChatGPT, etc.
+
+## Key Types
+- **Direct**: "What is AI?"
+- **Few-Shot**: Provide examples, e.g., "Summarize like this: [Example]. Now summarize [text]."
+
+## Tips for Better Prompts
+- Be clear and specific.
+- Add context: "Explain to a beginner."
+- Iterate: Refine based on outputs.
+
+## Examples
+| Type | Prompt Example | Expected Output |
+|------|----------------|-----------------|
+| Role-Based | "Act as a chef: How to bake bread?" | Step-by-step recipe |
+| Chain-of-Thought | "Solve 2x + 3 = 7, step-by-step." | Logical breakdown |    
